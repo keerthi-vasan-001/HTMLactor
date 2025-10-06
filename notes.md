@@ -1,5 +1,5 @@
 # Github notes taking sample
 ## mainly for improving note taking
-'''py
+```py
 print("hello")
-'''
+```
